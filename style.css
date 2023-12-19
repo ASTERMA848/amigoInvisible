@@ -45,6 +45,7 @@ body {
 /* Estilos para dispositivos con pantalla pequeña (menos de 768px) */
 @media (max-width: 767px) {
   .container {
+    margin-top: 50px;
     padding: 10px;
   }
 
