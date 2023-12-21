@@ -32,12 +32,12 @@ body {
 }
 
 .btn {
-  background-color: #d96831;
-  color: #fff;
+  background-color: #9c359a;
+  color: black;
   font-size: 18px;
   padding: 10px 20px;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   margin-top: 10px;
 }
